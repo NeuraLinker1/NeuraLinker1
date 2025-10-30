@@ -86,13 +86,13 @@
 
 ## 🧠 Most Used Languages (Manual Breakdown)
 
-<div align="center" style="width: 85%; margin: auto; background-color: #0A0A0A; border-radius: 12px; overflow: hidden; box-shadow: 0 0 12px #6A0DAD;">
-  <div style="height: 24px; width: 40%; background-color: #6A0DAD; display: inline-block;" title="Python 40%"></div>
-  <div style="height: 24px; width: 25%; background-color: #00BFFF; display: inline-block;" title="JavaScript 25%"></div>
-  <div style="height: 24px; width: 15%; background-color: #000000; display: inline-block;" title="TypeScript 15%"></div>
-  <div style="height: 24px; width: 10%; background-color: #6A0DAD; display: inline-block;" title="Go 10%"></div>
-  <div style="height: 24px; width: 10%; background-color: #00BFFF; display: inline-block;" title="Others 10%"></div>
-</div>
+| Language | Usage | Visual |
+|:----------|:-------|:--------|
+| 🐍 **Python** | 40% | ████████████████████████████░░░░ |
+| ⚡ **JavaScript** | 25% | ████████████████░░░░░░░░░░░░░░ |
+| 🌀 **TypeScript** | 15% | ████████░░░░░░░░░░░░░░░░░░░░ |
+| 💾 **Go** | 10% | █████░░░░░░░░░░░░░░░░░░░░░░░░ |
+| 🧩 **Others** | 10% | █████░░░░░░░░░░░░░░░░░░░░░░░░ |
 
 <p align="center"><i>Neural connections coded in logic and refined by evolution.</i></p>
 
